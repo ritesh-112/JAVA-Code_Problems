@@ -1,0 +1,311 @@
+Basic Java Programs (50 Questions)
+1. Write a program to print "Hello, World!"
+2. Print the sum of two numbers.
+3. Check if a number is even or odd.
+4. Find the largest among three numbers.
+5. Swap two numbers without using a third variable.
+6. Calculate the factorial of a number.
+7. Generate Fibonacci series up to n terms.
+8. Check if a number is prime.
+9. Print all prime numbers within a range.
+10. Find the reverse of a number.
+11. Check if a number is a palindrome.
+12. Find the GCD and LCM of two numbers.
+13. Convert binary to decimal.
+14. Convert decimal to binary.
+15. Calculate the sum of digits of a number.
+16. Find the power of a number using recursion.
+17. Print the ASCII value of a character.
+18. Check if a number is an Armstrong number.
+19. Print all Armstrong numbers in a range.
+20. Check if a year is a leap year.
+21. Find the sum of n natural numbers.
+22. Calculate the area of a circle.
+23. Print the multiplication table of a number.
+24. Calculate compound interest.
+25. Find the roots of a quadratic equation.
+26. Count the number of digits in a number.
+27. Reverse a string.
+28. Convert a string to uppercase.
+29. Count the number of vowels in a string.
+30. Check if a character is a vowel or consonant.
+31. Print the first n prime numbers.
+32. Calculate the sum of even and odd numbers in a range.
+33. Check if a number is perfect.
+34. Find the smallest element in an array.
+35. Find the largest element in an array.
+36. Sort an array using selection sort.
+37. Sort an array using bubble sort.
+38. Merge two sorted arrays.
+39. Rotate an array to the left.
+40. Rotate an array to the right.
+41. Count the frequency of each element in an array.
+42. Find the sum of all elements in a 2D array.
+43. Transpose a matrix.
+44. Multiply two matrices.
+45. Check if a number is a strong number.
+46. Find the missing number in an array of 1 to n.
+47. Implement a basic calculator.
+48. Find the smallest and largest digits in a number.
+49. Convert Celsius to Fahrenheit and vice versa.
+50. Generate random numbers within a range.
+
+Control Statements (50 Questions)
+51. Print a pattern of stars in a pyramid.
+52. Print an inverted star pyramid.
+53. Print Floyd's triangle.
+54. Print Pascal's triangle.
+55. Print a diamond pattern using stars.
+56. Check if a number is a Harshad number.
+57. Find if a number is a Happy number.
+58. Count the occurrences of a digit in a number.
+59. Print all perfect numbers in a range.
+60. Print all abundant numbers in a range.
+61. Display the prime factors of a number.
+62. Calculate the power of a number without using the `Math` library.
+63. Check if a number is a magic number.
+64. Find the HCF of two numbers using loops.
+65. Implement the Collatz sequence.
+66. Find the sum of prime numbers in a range.
+67. Print the first n terms of a geometric progression.
+68. Find the sum of an arithmetic progression.
+69. Calculate the sum of squares of first n natural numbers.
+70. Implement a program to print the Kaprekar numbers.
+71. Display all palindrome numbers in a range.
+72. Find the digital root of a number.
+73. Check if a number is a Krishnamurthy number.
+74. Find the product of digits of a number.
+75. Display all twin prime numbers within a range.
+76. Find the first n terms of the Tribonacci sequence.
+77. Count trailing zeros in a factorial.
+78. Calculate the value of nCr.
+79. Implement a program to find amicable numbers.
+80. Find the nearest prime number to a given number.
+81. Calculate the sum of cubes of first n natural numbers.
+82. Print all automorphic numbers in a range.
+83. Check if a number is a Keith number.
+84. Implement a basic menu-driven program.
+85. Print numbers in words (e.g., 123 as "One Two Three").
+86. Find the sum of the first n even numbers.
+87. Find the sum of the first n odd numbers.
+88. Display all palindrome prime numbers in a range.
+89. Implement a number guessing game.
+90. Generate a sequence of n random numbers.
+91. Check if a number is a Fibonacci number.
+92. Print the first n Lucas numbers.
+93. Display all circular primes in a range.
+94. Calculate the sum of divisors of a number.
+95. Check if a number is a Smith number.
+96. Display all prime palindrome numbers in a range.
+97. Generate the first n terms of a Pell sequence.
+98. Implement the Euclidean algorithm for GCD.
+99. Display all Pronic numbers in a range.
+100. Check if a number is a Mersenne prime.
+
+OOP Concepts (50 Questions)
+101. Create a class to model a student.
+102. Implement method overloading.
+103. Demonstrate method overriding.
+104. Use inheritance to create a class hierarchy.
+105. Implement an abstract class with abstract methods.
+106. Use interfaces to define multiple contracts.
+107. Create a program to model a bank account.
+108. Implement polymorphism in a real-world example.
+109. Create a class to represent a complex number.
+110. Implement a custom exception class.
+111. Demonstrate static methods and variables.
+112. Use final keywords with classes, methods, and variables.
+113. Create a class for a vehicle with methods for fuel and speed.
+114. Implement a singleton class.
+115. Model a library system using classes.
+116. Use the `this` keyword in a program.
+117. Implement a copy constructor.
+118. Use `super` to call the parent class constructor.
+119. Model a shopping cart system using OOP.
+120. Create a class for a 2D point and calculate the distance.
+121. Implement encapsulation in a program.
+122. Use static blocks for initialization.
+123. Demonstrate the use of inner classes.
+124. Model an employee management system.
+125. Implement a thread-safe singleton class.
+126. Create a class to model a book.
+127. Use enums to represent constants.
+128. Implement a class for a geometric shape hierarchy.
+129. Create a class to represent a stopwatch.
+130. Demonstrate runtime polymorphism.
+131. Model a customer ordering system using OOP.
+132. Implement composition in a class.
+133. Demonstrate association, aggregation, and composition.
+134. Use an interface to implement multiple inheritance.
+135. Model a pizza ordering system using OOP.
+136. Implement a program to clone objects using `clone()`.
+137. Create a program to manage inventory using OOP.
+138. Use generics in a class.
+139. Demonstrate the use of a parameterized constructor.
+140. Model a student grading system using classes.
+141. Create a class for a fraction and perform arithmetic operations.
+142. Use `transient` and `volatile` keywords in a program.
+143. Implement a program to demonstrate encapsulation.
+144. Use `instanceof` to check object types.
+145. Model a hospital management system using OOP.
+146. Demonstrate dynamic method dispatch.
+147. Create a class for a stack using an array.
+148. Implement a queue using a linked list.
+149. Model a zoo system with animals using inheritance.
+150. Implement multiple interfaces in a single class.
+
+Collections Framework (100 Questions)  
+151. Create a program to add elements to an `ArrayList` and print them.  
+152. Sort a list of integers using `Collections.sort()`.  
+153. Implement a stack using the `Stack` class.  
+154. Implement a queue using the `LinkedList` class.  
+155. Use a `HashSet` to store unique elements.  
+156. Find duplicate elements in an array using a `HashSet`.  
+157. Use a `TreeSet` to store elements in sorted order.  
+158. Create a program to store key-value pairs in a `HashMap`.  
+159. Traverse a `HashMap` using an iterator.  
+160. Use a `LinkedHashMap` to maintain the insertion order of elements.  
+161. Implement a priority queue using the `PriorityQueue` class.  
+162. Create a program to find the frequency of elements in a list using a `HashMap`.  
+163. Create a `HashMap` to store student names and their grades.  
+164. Demonstrate the difference between a `HashMap` and a `TreeMap`.  
+165. Implement a program to sort a `TreeMap` by keys.  
+166. Use a `Hashtable` to store elements.  
+167. Compare two lists to find common elements using `retainAll()`.  
+168. Remove duplicate elements from a list using `LinkedHashSet`.  
+169. Implement a program to reverse a list using `Collections.reverse()`.  
+170. Create a program to shuffle elements in a list using `Collections.shuffle()`.  
+171. Use a `Vector` to store and display elements.  
+172. Find the maximum and minimum elements in a collection.  
+173. Implement a program to iterate through a `LinkedList` in both directions.  
+174. Create a `Deque` and demonstrate its operations.  
+175. Implement a circular queue using a `Deque`.  
+176. Convert an array to a list using `Arrays.asList()`.  
+177. Use `Collections.unmodifiableList()` to create an immutable list.  
+178. Implement a program to remove all null values from a collection.  
+179. Create a custom comparator to sort objects.  
+180. Implement a `Comparator` to sort strings by length.  
+181. Create a program to compare two `ArrayLists`.  
+182. Demonstrate the use of a `ConcurrentHashMap`.  
+183. Create a thread-safe `ArrayList` using `Collections.synchronizedList()`.  
+184. Implement a custom `LinkedList` class.  
+185. Merge two `ArrayLists` into one.  
+186. Implement a program to split an `ArrayList` into sublists.  
+187. Use a `Queue` to implement a job scheduling system.  
+188. Demonstrate the use of a `NavigableMap`.  
+189. Find the first and last elements in a `TreeSet`.  
+190. Use a `ListIterator` to traverse a list in both directions.  
+191. Implement a program to convert a `Map` into two separate lists.  
+192. Write a program to clone a `HashSet`.  
+193. Implement a program to find the union of two sets.  
+194. Implement a program to find the intersection of two sets.  
+195. Use a `Comparator` to sort objects in descending order.  
+196. Write a program to find the difference between two sets.  
+197. Implement a program to remove duplicates from a `LinkedList`.  
+198. Demonstrate the use of the `replace` method in a `HashMap`.  
+199. Create a `Properties` file and load its values using Java.  
+200. Implement a multiset using a `HashMap`.
+
+File Handling (50 Questions)  
+201. Write a program to create a file.  
+202. Write data to a file using `FileWriter`.  
+203. Read data from a file using `FileReader`.  
+204. Read a file line by line using `BufferedReader`.  
+205. Append data to an existing file.  
+206. Create a program to check if a file exists.  
+207. Delete a file using Java.  
+208. Create directories using `File` class methods.  
+209. List all files in a directory.  
+210. Copy content from one file to another.  
+211. Use `FileInputStream` to read binary data.  
+212. Write binary data to a file using `FileOutputStream`.  
+213. Serialize an object to a file.  
+214. Deserialize an object from a file.  
+215. Count the number of words in a file.  
+216. Find the frequency of each word in a file.  
+217. Create a program to encrypt and decrypt a file.  
+218. Compress a file using GZIP.  
+219. Decompress a GZIP file.  
+220. Read data from a CSV file.  
+221. Write data to a CSV file.  
+222. Create a program to find duplicate lines in a file.  
+223. Count the number of lines in a file.  
+224. Implement a program to read and write JSON files.  
+225. Read and write XML files using Java.  
+226. Create a program to find the last modified date of a file.  
+227. Use a `Scanner` to read input from a file.  
+228. Create a temporary file and write data to it.  
+229. Read a file using `NIO` package classes.  
+230. Write data to a file using `BufferedOutputStream`.  
+231. Find all files in a directory with a specific extension.  
+232. Demonstrate the use of `RandomAccessFile`.  
+233. Create a program to merge multiple files into one.  
+234. Split a file into smaller parts.  
+235. Create a program to find the size of a file.  
+236. Check if a file is readable and writable.  
+237. Rename a file using Java.  
+238. Watch a directory for changes using `WatchService`.  
+239. Create a program to compare two files.  
+240. Implement a program to read and write properties files.  
+241. Create a log file and write logs to it.  
+242. Implement a program to count the frequency of characters in a file.  
+243. Demonstrate the use of `Path` and `Files` classes.  
+244. Create a program to move files between directories.  
+245. Implement a program to search for a string in a file.  
+246. Use `FileChannel` to copy large files efficiently.  
+247. Create a backup system for files using Java.  
+248. Implement a simple text editor using file handling.  
+249. Create a program to check for broken file links.  
+250. Demonstrate file locking using `FileLock`.
+
+Multithreading (100 Questions)  
+251. Create a thread using the `Thread` class.  
+252. Implement a thread using the `Runnable` interface.  
+253. Demonstrate the use of `sleep()` in a thread.  
+254. Use `join()` to wait for a thread to finish.  
+255. Synchronize a method to avoid thread interference.  
+256. Use `wait()` and `notify()` to implement inter-thread communication.  
+257. Demonstrate a deadlock scenario with threads.  
+258. Create a thread-safe counter using synchronization.  
+259. Use a `ReentrantLock` for thread synchronization.  
+260. Implement a producer-consumer problem using wait/notify.  
+261. Create a thread pool using `ExecutorService`.  
+262. Demonstrate the use of `Callable` and `Future`.  
+263. Schedule tasks at a fixed rate using `ScheduledExecutorService`.  
+264. Implement a program to handle multiple tasks concurrently.  
+265. Create a program to demonstrate thread priorities.  
+266. Use a semaphore to control thread access.  
+267. Implement a countdown timer using threads.  
+268. Use a barrier to synchronize multiple threads.  
+269. Demonstrate a simple thread-safe collection.  
+270. Create a program to interrupt a thread.  
+271. Use `volatile` to ensure thread visibility.  
+272. Demonstrate the use of a `CyclicBarrier`.  
+273. Implement a thread-safe singleton class.  
+274. Create a multithreaded chat server.  
+275. Use `AtomicInteger` to implement a counter without locks.  
+276. Implement a parallel sorting algorithm using threads.  
+277. Create a program to calculate factorials in parallel.  
+278. Demonstrate thread-local storage using `ThreadLocal`.  
+279. Use a `Phaser` to coordinate multiple threads.  
+280. Implement a thread-safe linked list.  
+281. Demonstrate the difference between `wait()` and `sleep()`.  
+282. Implement a program to solve the dining philosophers problem.  
+283. Use an `Executor` to manage thread execution.  
+284. Create a program to process large files using multiple threads.  
+285. Demonstrate the use of `ForkJoinPool` for parallel tasks.  
+286. Implement a web crawler using multithreading.  
+287. Use a thread pool to execute database queries concurrently.  
+288. Demonstrate asynchronous programming using `CompletableFuture`.  
+289. Create a parallel prime number generator.  
+290. Implement a thread-safe stack.  
+291. Use `BlockingQueue` to implement a task scheduler.  
+292. Implement a multithreaded file downloader.  
+293. Demonstrate a thread-safe cache.  
+294. Use `CountDownLatch` to synchronize threads.  
+295. Implement a custom thread pool.  
+296. Demonstrate parallel matrix multiplication.  
+297. Create a thread-safe logger.  
+298. Use `Exchanger` to exchange data between threads.  
+299. Demonstrate thread-safe lazy initialization.  
+300. Create a multithreaded stock price monitor.
