@@ -1,0 +1,19 @@
+package root;
+
+import java.util.Scanner;
+
+// 6. Calculate the factorial of a number.
+public class Factorial {
+
+	public static void main(String[] args) {
+		int fact;
+		try (Scanner sc = new Scanner(System.in)) {
+			System.out.println("Enter a number to calculate factorial: ");
+			int a = sc.nextInt();
+		}
+		for(int i = 0; i<10; i++) {
+			fact = fact *i;
+		}
+	}
+
+}

@@ -1,0 +1,11 @@
+package root;
+
+// 10. Find the reverse of a number.
+public class ReversingNumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package root;
+
+// 9. Print all prime numbers within a range.
+public class PrintAllNumbers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

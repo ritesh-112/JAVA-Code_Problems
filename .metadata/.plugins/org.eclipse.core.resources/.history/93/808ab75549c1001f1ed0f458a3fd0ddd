@@ -1,0 +1,11 @@
+package root;
+
+// 7. Generate Fibonacci series up to n terms.
+public class FibonacciSeries {
+
+	public static void main(String[] args) {
+		int first =1;
+		
+	}
+
+}

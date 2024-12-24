@@ -1,0 +1,13 @@
+package root;
+
+import java.util.Scanner;
+
+// 5. Swap two numbers without using a third variable.
+public class SwappingValues {
+
+	public static void main(String[] args) {
+		Scanner sc  = new Scanner();
+		sc.nextInt()
+	}
+
+}

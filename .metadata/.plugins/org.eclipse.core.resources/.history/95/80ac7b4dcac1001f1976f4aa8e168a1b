@@ -1,0 +1,14 @@
+package root;
+
+import java.util.Scanner;
+
+// 9. Print all prime numbers within a range.
+public class PrintAllNumbers {
+
+	public static void main(String[] args) {
+		try(Scanner sc = new Scanner(System.in)){
+			System.out.println();
+		}
+	}
+
+}

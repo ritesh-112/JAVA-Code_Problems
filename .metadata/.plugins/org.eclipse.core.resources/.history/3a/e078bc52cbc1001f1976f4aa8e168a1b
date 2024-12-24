@@ -1,0 +1,17 @@
+package root;
+
+import java.util.Scanner;
+
+// 10. Find the reverse of a number.
+public class ReversingNumber {
+
+	public static void main(String[] args) {
+		try (Scanner sc = new Scanner(System.in)) {
+			int num = 0;
+			while (num >= 9) {
+				System.out.println();
+			}
+		}
+	}
+
+}

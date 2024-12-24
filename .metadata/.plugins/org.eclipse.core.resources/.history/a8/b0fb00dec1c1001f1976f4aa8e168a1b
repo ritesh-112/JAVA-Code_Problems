@@ -1,0 +1,32 @@
+package root;
+
+import java.util.Scanner;
+
+// 7. Generate Fibonacci series up to n terms.
+public class FibonacciSeries {
+
+	public static void main(String[] args) {
+		int n = 0;
+		int first = 0;
+		int second = 1;
+		try (Scanner sc = new Scanner(System.in)) {
+			System.out.println("Enter a number to generate Fibonacci series: ");
+			n = sc.nextInt();
+			int[] arr = new int[n];
+			for (int i = 1; i < n; i++) {
+				arr[i] = arr[i]+i;
+				System.out.println(arr[i]);
+			}
+
+			int lengthOf = arr.length;
+			System.out.println("length is: " + lengthOf);
+			System.out.println("first " + first);
+			System.out.println("second " + second);
+			for (int i : arr) {
+				System.out.println(arr[i]);
+			}
+		}
+
+	}
+
+}

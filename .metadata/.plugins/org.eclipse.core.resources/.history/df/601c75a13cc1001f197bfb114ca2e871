@@ -1,0 +1,11 @@
+package root;
+
+5. Swap two numbers without using a third variable.
+
+public class SwappingValues {
+
+	public static void main(String[] args) {
+
+	}
+
+}
